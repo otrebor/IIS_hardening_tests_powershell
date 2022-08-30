@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata minClientVersion="3.3">
+        <id>OTR.IIS.Test-Hardening</id>
+        <version>1.0.0</version>
+        <title>IIS Test-Hardening</title>
+        <authors>Otrebor</authors>
+        <description>Better Hardened</description>
+        <contentFiles>
+            <files include="*"/>
+        </contentFiles> 
+    </metadata>
+</package>
